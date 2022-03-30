@@ -1,4 +1,3 @@
-<h1>njd<h1/>
 - 👋 Hi, I’m @geekydoodle
 - 👀 I’m interested in python, opencv, tensorflow, arduino, C, golang
 - 🌱 I’m currently learning python, opencv, tensorflow, arduino, C, golang
